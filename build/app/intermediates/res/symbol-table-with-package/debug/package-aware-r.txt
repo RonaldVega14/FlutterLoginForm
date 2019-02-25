@@ -1,0 +1,4 @@
+com.example.loginform
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
